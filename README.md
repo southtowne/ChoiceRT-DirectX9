@@ -1,8 +1,13 @@
 # ChoiceRT-DirectX9
 Measures choice reaction time at high framerate.
 
+<img width="978" height="512" alt="ChoiceRT" src="https://github.com/user-attachments/assets/f00920ec-1a8c-455a-95f1-aa800b944bb7" />
+
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/southtowne/ChoiceRT-DirectX9/total)
 
+# Usage
+1. Download [ChoiceRT-DirectX9](https://github.com/southtowne/Mouse-Plotter/releases/download/V1.0/MousePlotter.exe).
+2. Right-click & run as administrator.
 
 # Build Instructions
 
