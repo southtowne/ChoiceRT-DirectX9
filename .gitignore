@@ -1,0 +1,13 @@
+# Build output
+/ChoiceRT-DirectX9/x64
+/x64
+
+# Visual Studio
+.vs/
+*.user
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
